@@ -4,5 +4,8 @@
 			"path": "..\\..\\..\\.."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"python.pythonPath": "c:\\Users\\brobi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+	}
 }
